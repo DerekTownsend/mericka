@@ -1,0 +1,26 @@
+body{
+    background-image:url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+p{
+    background: rgba(255,255,255,.7);
+    font-size:20px;
+    width:40%;
+    border:solid blue 1px;
+    padding:10px 10px 10px 10px;
+}
+.first{
+    float:left;
+}
+.second{
+    float:right;
+}
+h1,h2{
+    color: white;
+}
+
+.container{
+    margin:10px 1in 0px 1in;
+}
